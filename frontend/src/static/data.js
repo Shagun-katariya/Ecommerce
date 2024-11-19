@@ -229,7 +229,7 @@ export const navItems = [
       title: "Gifts",
       subTitle: "",
       image_Url:
-        "https://img.freepik.com/free-photo/christmas-gifts-with-red-ribbons_144627-33768.jpg?semt=ais_hybrid",
+        "https://img.freepik.com/free-vector/christmas-gift-box-offset-colours_78370-7724.jpg",
     },
     {
       id: 7,
