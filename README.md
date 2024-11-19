@@ -1,0 +1,1 @@
+Verification via email may take some time, so to log in quickly as a shopkeeper, use the following credentials: (Email: shagun2003@kgpian.iitkgp.ac.in, Password: 123456). If you're logging in as a customer, use these credentials instead: (Email: shagun2003@kgpian.iitkgp.ac.in, Password: 1234567890)
