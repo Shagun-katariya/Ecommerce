@@ -24,14 +24,14 @@ const Sponsored = () => {
         <div className="flex items-start">
           <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/976px-Apple_logo_black.svg.png?20220821121934"
-            style={{width:"150px", objectFit:"contain"}}
+            style={{width:"150px", height:"80px", objectFit:"contain"}}
             alt=""
           />
         </div>
         <div className="flex items-start">
           <img
             src="https://upload.wikimedia.org/wikipedia/commons/2/24/Samsung_Logo.svg"
-            style={{width:"150px", objectFit:"contain"}}
+            style={{width:"150px", height:"80px", objectFit:"contain"}}
             alt=""
           />
         </div>
