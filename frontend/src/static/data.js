@@ -222,20 +222,20 @@ export const navItems = [
       title: "Shoes",
       subTitle: "",
       image_Url:
-        "https://images.unsplash.com/photo-1485736231968-0c8ad5c9e174?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c2hvZXN8ZW58MHx8MHx8fDA%3D",
+        "https://img.freepik.com/free-photo/woman-shoes_1203-8759.jpg?semt=ais_hybrid",
     },
     {
       id: 6,
       title: "Gifts",
       subTitle: "",
       image_Url:
-        "https://images.unsplash.com/photo-1521478706270-f2e33c203d95?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z2lmdHxlbnwwfHwwfHx8MA%3D%3D",
+        "https://img.freepik.com/premium-photo/3d-christmas-decoration_58466-5700.jpg?semt=ais_hybrid",
     },
     {
       id: 7,
       title: "Pet Care",
       subTitle: "",
-      image_Url: "https://images.pexels.com/photos/29449034/pexels-photo-29449034/free-photo-of-playful-dogs-frolicking-by-the-seaside.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image_Url: "https://img.freepik.com/free-photo/happy-woman-her-beautiful-dog_144627-26655.jpg?semt=ais_hybrid",
     },
     {
       id: 8,
